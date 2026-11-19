@@ -1,2 +1,2 @@
-# SC-663405-Basic-of-Data-Science
+# SC-663-405-Basic-of-Data-Science
 Sukritta Natinon
